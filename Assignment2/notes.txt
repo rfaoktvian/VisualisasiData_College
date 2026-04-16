@@ -1,0 +1,10 @@
+Terdapat beberapa kesalahan pada dataset yang ditemukan:
+1. Missing Values
+2. Duplicate data
+3. Inkonsistensi Format date (Ship Date)
+4. Besar Kecil Huruf Category
+5. Inkonsistensi values di kolom Quantity (+pcs, dan nilai -)
+6. Profit masih ada value (IDR)
+7. Kolom Sales ($)
+8. Inkonsistensi Format date (Order Date)
+9. 
